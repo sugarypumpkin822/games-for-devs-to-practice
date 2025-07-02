@@ -1,0 +1,5 @@
+googletest
+nlohmann_json
+sqlite3
+spdlog
+boost
